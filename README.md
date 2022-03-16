@@ -2,6 +2,10 @@
 
 ### Youtube Premium 不同国区的订阅价格
 
+[中文](https://github.com/ender-zhao/YT-Premium-Area-price/tree/main/Language/Chinese)
+
+[English](https://github.com/ender-zhao/YT-Premium-Area-price/tree/main/Language/English)
+
 国家  |个人订阅价格|家庭订阅价格|学生订阅价格
 ------|-----------|-----------|----------
 美国  |  US$11.99 |  US$17.99 | US$6.99
