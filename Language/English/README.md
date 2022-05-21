@@ -31,18 +31,18 @@ Singapore     | SGD 143.76| SGD 215.76| SGD 83.76
    Nation     |  Personal |   Family  |  Student | Effective time
 --------------|-----------|-----------|----------|---------------
 United States |  US$11.99 |  US$17.99 | US$6.99  | One month
-United Kingdom|  US$15.77 |  US$23.67 | US$9.20  | One month
-Philippines   |  US$3.05  |  US$4.58  | US$1.82  | One month
-South Korea   |  US$8.18  |  -        | -        | One month
-Brazil        |  US$4.12  |  US$6.28  | US$2.46  | One month
-India         |  US$1.7   |  US$2.48  | US$1.04  | One month
-Japan         |  US$9.93  |  US$14.98 | US$5.72  | One month
-Hong Kong     |  US$8.69  |  US$12.53 | US$4.86  | One month
-Canada        |  US$9.45  |  US$14.18 | US$5.51  | One month
-Singapore     |  US$8.83  |  US$13.45 | US$5.14  | One month
+United Kingdom|  US$14.97 |  US$22.47 | US$8.73  | One month
+Philippines   |  US$3.04  |  US$4.57  | US$1.82  | One month
+South Korea   |  US$7.85  |  -        | -        | One month
+Brazil        |  US$4.28  |  US$6.53  | US$2.56  | One month
+India         |  US$1.66  |  US$2.43  | US$1.02  | One month
+Japan         |  US$9.22  |  US$13.91 | US$5.32  | One month
+Hong Kong     |  US$8.67  |  US$12.49 | US$4.84  | One month
+Canada        |  US$9.34  |  US$14.01 | US$5.51  | One month
+Singapore     |  US$8.68  |  US$13.03 | US$5.06  | One month
 
 **The cheapest: India**
 
 **The most expensive: United Kingdom**
 
-Last update:`17.Mar.2022`
+Last update:`21.May.2022`
