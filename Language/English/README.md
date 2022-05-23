@@ -10,6 +10,7 @@ Japan         |  JP¥1180  |  JP¥1780  | JP¥680   | One month
 Hong Kong     |  HK$68    |  HK$98    | HK$38    | One month
 Canada        |  CA$11.99 |  CA$17.99 | CA$6.99  | One month
 Singapore     |  SGD 11.98|  SGD 17.98| SGD 6.98 | One month
+Taiwan        |  NT$179.00|  NT$269.00| NT$109.00| One month
 
 ## If you keep paying for a year, you will cost:
 
@@ -25,6 +26,7 @@ Japan         |  JP¥14160 |  JP¥21360 | JP¥8160
 Hong Kong     |  HK$816   |  HK$1176  | HK$456
 Canada        |  CA$143.88|  CA$215.88| CA$83.88
 Singapore     | SGD 143.76| SGD 215.76| SGD 83.76
+Taiwan        | NT$2148.00| NT$3228.00| NT$1308.00
 
 ## Convert to US dollars:
 
@@ -40,6 +42,7 @@ Japan         |  US$9.22  |  US$13.91 | US$5.32  | One month
 Hong Kong     |  US$8.67  |  US$12.49 | US$4.84  | One month
 Canada        |  US$9.34  |  US$14.01 | US$5.51  | One month
 Singapore     |  US$8.68  |  US$13.03 | US$5.06  | One month
+Taiwan        |  US$6.05  |  US$9.09  | US$3.68  | One month
 
 **The cheapest: India**
 
