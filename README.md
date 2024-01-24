@@ -9,4 +9,4 @@
 #### [English](https://github.com/ender-zhao/YT-Premium-Area-price/tree/main/Language/English)
 
 ****
-last update: 21/May/2022
+last update: 24/Jan/2024
